@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
-  "features": [{
+  "features": [
+    {
       "type": "Feature",
       "properties": {
         "name": "Van Dorn Street",
@@ -31,6 +32,6 @@
           38.766521892689916
         ]
       }
-    },
+    }
   ]
 }
