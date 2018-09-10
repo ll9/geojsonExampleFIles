@@ -1,0 +1,5 @@
+﻿latitude;longitude;altitude;geometry;coordinates;name;marker-color;marker-symbol;line
+38.79930767201779;-77.12911152370515;;Point;;Van Dorn Street;#0000ff;rail-metro;blue
+38.766521892689916;-77.16797018042666;;Point;;Franconia-Springfield;#0000ff;rail-metro;blue
+;;;LineString;30,10,10,30,40,40;Franconia-Springfield;#0000ff;rail-metro;blue
+;;;Polygon;120.7177734375,56.9449741808516,117.20214843749999,55.35413531021057,120.62988281249999,53.409531853086435,122.87109375,55.7765730186677,120.7177734375,56.9449741808516;Franconia-Springfield;#0000ff;rail-metro;blue
